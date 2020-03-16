@@ -58,3 +58,4 @@ To be Continued...
 - [Coronavirus logistic growth model: Italy and South Korea](https://community.wolfram.com/groups/-/m/t/1887823)
 - [Resources For Novel Coronavirus COVID-19](https://community.wolfram.com/groups/-/m/t/1872608)
 - [Epidemiological Models for Influenza and COVID-19](https://community.wolfram.com/groups/-/m/t/1896178)
+- [github.com/arnoudbuzing/wolfram-coronavirus](https://github.com/arnoudbuzing/wolfram-coronavirus)
