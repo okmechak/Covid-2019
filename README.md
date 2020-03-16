@@ -53,5 +53,7 @@ To be Continued...
 
 16 March 2020.
 
-
-
+## Further reading
+- [Updated: coronavirus logistic growth model: China](https://community.wolfram.com/groups/-/m/t/1890271)
+- [Coronavirus logistic growth model: Italy and South Korea](https://community.wolfram.com/groups/-/m/t/1887823)
+- [Resources For Novel Coronavirus COVID-19](https://community.wolfram.com/groups/-/m/t/1872608)
