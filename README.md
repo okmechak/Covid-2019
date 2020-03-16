@@ -1,4 +1,4 @@
-# Covid-2019 Data Exploration
+# COVID-2019 Data Exploration
 
 Simulation of corona virus spread dynamics using Mathematica capabilities.
 
