@@ -32,7 +32,7 @@ To understand better dynamics of these curves let simply evaluate derivatives. F
 |:-----:|:-----:|
 |![worldwide animation](worldwide_derivatives_plot.png) |![europe animation](europe_derivatives_plot.png) |
 
-When I first evaluate these plots I was __amazed__ and very emotional :smiley: !
+When I first evaluate these plots I was __amazed__!
 
 <del>Second derivatives are negative it means that speed is slowing down, and if You take a look on Europe plot - it is sloving down exponentially like! So spreading overally in Europe is starting to slowing down.</del>
 
