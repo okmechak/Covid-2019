@@ -2,7 +2,7 @@
 
 Simulation of corona virus spread dynamics using Mathematica capabilities.
 
-## Data retirevel call in Mathematica
+## Data retrieval call in Mathematica
 
 ```Mathematica
 ResourceData[
